@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import "../rincon-arepa/styles.css"; // Reutilizamos los estilos
+import "./styles.css"; // Reutilizamos los estilos
 
 export default function SaasPlatform() {
 	return (
