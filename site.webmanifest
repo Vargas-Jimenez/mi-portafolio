@@ -1,0 +1,22 @@
+{
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "display": "browser",
+    "scope": ".",
+    "start_url": ".",
+    "name": "Samuel Alejandro Vargas Jimenez",
+    "short_name": "Mi portafolio",
+    "description": "Este es mi portafolio en el cual hablo de mi y el cual voy a ir alimentando a medida que vaya avanzando como persona y en experencias como laborales como en proyectos.",
+    "icons": [
+        {
+            "src": "/public/logo-pestaña.svg",
+            "sizes": "32x32",
+            "type": "image/svg+xml"
+        },
+        {
+            "src": "/src/assets/new-logo.jpg",
+            "sizes": "720x721",
+            "type": "image/jpg"
+        }
+    ]
+}
